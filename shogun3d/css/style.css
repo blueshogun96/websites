@@ -147,7 +147,7 @@ header {
 .nav-collapse_ .nav > li > a:hover,
 .nav-collapse_ .nav > li.active > a,
 .nav-collapse_ .nav > li.active > a:hover {
-  background: #e85356;
+  background: #FF7A1C;
   color: #ffffff;
   -webkit-box-shadow: none;
   -moz-box-shadow: none;
@@ -185,7 +185,7 @@ header {
 .nav-collapse_ .nav > li > ul li.sfHover > a {
   text-decoration: none;
   color: #ffffff;
-  background: #e85356;
+  background: #FF7A1C;
 }
 .nav-collapse_ .nav ul .sf-sub-indicator {
   display: none;
@@ -273,7 +273,7 @@ p {
   padding-bottom: 44px;
 }
 .block-slogan h2:first-letter {
-  color: #e85356;
+  color: #FF7A1C;
   font-weight: normal;
 }
 .block-slogan h2 {
@@ -427,10 +427,10 @@ p {
 }
 .list.extra1 a:hover,
 .list.extra2 a:hover {
-  color: #e85356;
+  color: #FF7A1C;
 }
 .list li a {
-  color: #e85356;
+  color: #FF7A1C;
   display: inline-block;
 }
 .list li a:hover {
@@ -589,7 +589,7 @@ p {
 }
 .mail-1 {
   text-decoration: underline;
-  color: #e85356;
+  color: #FF7A1C;
 }
 .mail-1:hover {
   text-decoration: none;
@@ -702,7 +702,7 @@ p {
 /*----------- buttons & links--------------*/
 .btn-1 {
   color: #ffffff;
-  background: #e85356;
+  background: #FF7A1C;
   padding: 5px 14px;
   -webkit-border-radius: 0;
   -moz-border-radius: 0;
@@ -754,7 +754,7 @@ p {
   overflow: hidden;
 }
 .box-404 h2 {
-  color: #e85356;
+  color: #FF7A1C;
   font-size: 80px;
   line-height: 84px;
   font-weight: normal;
@@ -812,7 +812,7 @@ footer {
   padding-top: 6px;
 }
 .privacy a {
-  color: #e85356;
+  color: #FF7A1C;
 }
 .list-social {
   list-style: none outside none;
@@ -987,7 +987,7 @@ footer {
   .navbar_ .btn {
     display: inline-block;
     float: right;
-    background: #e85356;
+    background: #FF7A1C;
     padding: 18px 0 20px;
     text-decoration: none;
     margin: 0;
@@ -1070,7 +1070,7 @@ footer {
   .nav-collapse_ .nav > li.active > a:hover {
     text-decoration: none;
     color: #ffffff;
-    background: #e85356;
+    background: #FF7A1C;
   }
   .sub-menu > a {
     position: relative;
